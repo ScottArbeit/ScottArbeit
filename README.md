@@ -24,4 +24,4 @@ My most current resume, with a long list of stuff I know (and stuff I used to kn
 Lately, I've been exploring the mathematical and functional end of programming, learning some Category Theory and writing code using F#. I specialize in Microsoft Azure architecture and .NET programming, using CQRS and Event Sourcing whenever I can (but I'm sure your tech stack is cool, too).
 
 ### Interests
-Baseball. Hockey. Poker. Philosophy. Quantum physics. Yoga. Walking. Meditation. Lucky to have more friends than I know what to do with.
+Baseball. Hockey. Poker. Philosophy. Quantum physics. Yoga. Walking. Meditation. Lucky to have a great family and more friends than I know what to do with.
