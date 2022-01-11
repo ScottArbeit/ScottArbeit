@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on an experimental source control system at GitHub.
+I'm currently working on the Special Projects team at GitHub.
 
 I've been a programmer since age 11, starting with the Apple ][+, AppleSoft BASIC, and 6502 Assembler. Since then, I've learned and mostly forgotten tons of other languages, operating systems, and software, all of which has happened during a long career where I've been a programmer, network administrator, DBA, consultant, architect, program manager, and product manager.
 
