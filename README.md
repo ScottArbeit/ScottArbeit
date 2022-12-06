@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working in the Office of the CEO at GitHub.
+I'm currently working in the Revenue team at GitHub.
 
 Most recently, I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace).
 
