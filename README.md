@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Technical Architect in the Revenue team at GitHub.
+I'm a Technical Architect at GitHub.
 
+![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
+
+### Grace Version Control System
 I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace), and you should totally [check it out](https://github.com/scottarbeit/grace). ❤️
 
-I've been a programmer since age 11, starting with the Apple ][+, AppleSoft BASIC, and 6502 Assembler. Since then, I've learned and mostly forgotten tons of other languages, operating systems, and server and client software, all of which has happened during a long career where I've been a programmer, network administrator, DBA, consultant, architect, program manager, and product manager.
+![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
+
+### About me
+I've been a programmer since age 11, starting with the Apple ][+, AppleSoft BASIC, and 6502 Assembler. Since then, I've learned and mostly forgotten tons of other languages, operating systems, and server and client software, during a long career in which I've been a programmer, network administrator, DBA, consultant, architect, Program Manager, and Product Manager.
 
 My most current resume, with a long list of stuff I know (and stuff I used to know) and stuff I've done is [here](https://1drv.ms/w/s!AmUyQqSnBAory7xCfzgOHZjZlwvyrQ?e=0DbFc6).
 
@@ -29,9 +35,15 @@ The journey from object-oriented(-ish) thinking to functional(-ish) thinking can
 
 I wish I could be good at All The Things, but there's just too many of them, so I specialize in cloud architecture using Microsoft Azure, and programming in .NET. I 💛 PaaS, virtual actors, CQRS and Event Sourcing.
 
-And don't forget to check out [Grace](https://github.com/scottarbeit/grace). 😉
+![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
 
 ### Interests
-Baseball. Hockey. Poker. Philosophy. Relativity and quantum physics. Yoga. Walking. Meditation.
+Baseball. Hockey. Poker. Philosophy. Quantum physics. Yoga. Walking. Meditation.
+
+![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
+
+Hi from a little bit east of Seattle. ☁️
+
+Don't forget to check out [Grace](https://github.com/scottarbeit/grace). 😉
 
 Lucky to have a great girlfriend, a great family, and more friends than I know what to do with.
