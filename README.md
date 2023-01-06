@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Technical Architect in the Revenue team at GitHub.
 
-I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace), and you should totally check it out.
+I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace), and you should totally [check it out](https://github.com/scottarbeit/grace).
 
 I've been a programmer since age 11, starting with the Apple ][+, AppleSoft BASIC, and 6502 Assembler. Since then, I've learned and mostly forgotten tons of other languages, operating systems, and server and client software, all of which has happened during a long career where I've been a programmer, network administrator, DBA, consultant, architect, program manager, and product manager.
 
