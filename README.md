@@ -20,7 +20,7 @@ I'm a Technical Architect at GitHub.
 ![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
 
 ### Grace Version Control System
-I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace), and you should totally [check it out](https://github.com/scottarbeit/grace). ❤️
+I've invented a new, cloud-native, easy-to-use version control system, called [Grace](https://github.com/scottarbeit/grace), and you should totally check it out. ❤️
 
 ![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
 
