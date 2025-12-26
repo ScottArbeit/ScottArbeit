@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Technical Architect at GitHub.
+I'm ex-Microsoft, ex-GitHub, been a programmer / architect for a long time, and been spending A LOT of time doing AI-assisted coding lately.
 
 ![](https://gracevcsdevelopment.blob.core.windows.net/static/Green.svg)
 
